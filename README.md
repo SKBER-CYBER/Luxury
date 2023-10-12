@@ -1,3 +1,5 @@
+rm -rf Luxury
+
 git clone https://github.com/SKBER-CYBER/Luxury
 
 cd Luxury
